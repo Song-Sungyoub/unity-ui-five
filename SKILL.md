@@ -1,11 +1,11 @@
 ---
 name: unity-ui-five
-description: 5팀의 Unity uGUI 화면과 프리팹을 제작하거나 정리한다. 공용 Sliced Image, TMP 텍스트 분리, LayoutGroup 및 반복 요소 재사용에 적용하며 사업별 글꼴과 디자인은 유지한다. UI 변경이 없는 일반 Unity 로직이나 API 구현에는 적용하지 않는다.
+description: Unity uGUI 화면과 프리팹을 제작하거나 정리한다. 공용 Sliced Image, TMP 텍스트 분리, LayoutGroup 및 반복 요소 재사용에 적용하며 사업별 글꼴과 디자인은 유지한다. UI 변경이 없는 일반 Unity 로직이나 API 구현에는 적용하지 않는다.
 ---
 
 # Unity UI Five
 
-5팀의 Unity UI 구성 지침이다. 작업 대상의 디자인과 기존 컨트롤을 유지하며, 프로젝트 전체를 불필요하게 개편하지 않는다.
+Unity UI 구성 지침이다. 작업 대상의 디자인과 기존 컨트롤을 유지하며, 프로젝트 전체를 불필요하게 개편하지 않는다.
 
 ## 사업별 기준 우선
 

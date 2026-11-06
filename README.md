@@ -1,6 +1,6 @@
 # Unity UI Five
 
-A Codex skill for building and maintaining Unity uGUI screens and prefabs. **Five** refers to Team Five.
+A Codex skill for building and maintaining Unity uGUI screens and prefabs.
 
 The skill preserves each project's visual design while separating image-based content into editable UI controls. It provides layout, prefab reuse, and Editor workflow guidelines rather than a fixed theme or a ready-made UI package.
 
